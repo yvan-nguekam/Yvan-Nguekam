@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 
 ### Wakatime
 
-!https://wakatime.com/badge/user/944a2356-a7a8-40eb-ae16-b192554319a7.svg!:https://wakatime.com/@944a2356-a7a8-40eb-ae16-b192554319a7
+https://wakatime.com/badge/user/944a2356-a7a8-40eb-ae16-b192554319a7.svg!:https://wakatime.com/@944a2356-a7a8-40eb-ae16-b192554319a7
